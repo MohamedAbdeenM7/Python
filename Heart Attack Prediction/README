@@ -1,0 +1,33 @@
+# Heart Attack Prediction
+
+This project predicts the risk of a heart attack using clinical and personal data. It covers data preprocessing, model building, evaluation, and interpretation of results.
+
+## What I Did
+
+- Obtained a heart disease dataset containing clinical parameters and patient information.
+- Explored the dataset to understand the attributes and their correlation with heart attack risk.
+- Preprocessed the data by handling missing values and encoding categorical features where necessary.
+- Selected important features using correlation analysis and domain knowledge.
+- Built and trained multiple classification models (e.g., Logistic Regression, Decision Tree, Random Forest).
+- Assessed model performance using confusion matrix, ROC curve, accuracy, and other relevant metrics.
+- Interpreted feature importance and model outputs to provide actionable health insights.
+- Documented the full workflow for clarity and reproducibility.
+
+## Features
+- Data cleaning and preprocessing
+- Feature selection
+- Machine learning models
+- Evaluation metrics and visualizations
+
+## Usage
+1. Launch the notebook in Jupyter.
+2. Follow the steps to preprocess data and train models.
+3. Adjust data paths if needed.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- pandas, numpy, matplotlib, scikit-learn
+
+## License
+For educational purposes only.
