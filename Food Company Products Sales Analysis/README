@@ -1,0 +1,41 @@
+# Food Company Products Sales Analysis
+
+Analyze sales data for a food company to uncover trends, patterns, and actionable insights. This notebook includes data loading, cleaning, visualization, and exploratory analysis.
+
+## What I Did
+
+- Collected or sourced sales data for various products from a food company (real or simulated dataset).
+- Loaded the data into a Jupyter Notebook and performed an initial exploration to understand its structure.
+- Cleaned the data by handling missing values, removing duplicates, and correcting inconsistencies.
+- Conducted exploratory data analysis (EDA) to identify sales trends, best-selling products, and seasonal effects.
+- Created visualizations such as bar charts, line graphs, and heatmaps to communicate findings clearly.
+- Segmented sales by product, region, or time period for deeper insights.
+- Summarized key findings and provided actionable recommendations based on the analysis.
+- how to import and install pandas an libraries
+- how to calculate the lower and upper boundry
+- how to know how many rows and columns in yor data frame 
+- how to know how many rows is outliers
+- how to get a random sample 
+- how to get first and last rows in youe data frame by head and tail 
+- how to decribe your data frame by this i mean (min,max,mean,median, q1,q3,iqr )
+- how to use boxplot 
+- how to bulid a function for wranglering to make it simple to load files ,drop null values from data frame changing names of      columns and their data types 
+
+## Features
+- Sales data exploration
+- Time series and trend analysis
+- Visualization of sales by product, region, and period
+- Insights and recommendations
+
+## Usage
+1. Open the notebook using Jupyter.
+2. Run the cells to perform the analysis.
+3. Update the data file path as needed.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- pandas, numpy, matplotlib, seaborn
+
+## License
+This project is for educational purposes.
