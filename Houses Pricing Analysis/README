@@ -1,0 +1,41 @@
+# Houses Pricing Analysis
+
+Explore and analyze house pricing data to extract trends and build predictive models. This notebook includes data visualization, feature analysis, and regression modeling.
+
+## What I Did
+
+- Acquired a housing dataset with attributes like price, location, size, and other relevant features.
+- Performed an initial analysis to understand data distribution and identify outliers.
+- Cleaned the data by handling missing values and converting categorical variables.
+- Conducted exploratory data analysis (EDA) to uncover trends and important factors influencing prices.
+- Engineered new features to enhance predictive power.
+- Built regression models (such as Linear Regression and Random Forest Regressor) to predict house prices.
+- Evaluated model predictions using metrics like RMSE, MAE, and R² score.
+- Visualized feature importance and model predictions.
+- Summarized findings and suggested factors that most affect house prices.
+- Cleaning Data Loading from Kaggle
+- Data Cleaning Split Column - Replace values - Save Data to CSV
+- Univariate Analysis Matplotlib Subplots
+- Bivariate Analysis Feature and Target Parameters - Correlations - seaborn pairplot
+- What has a greater influence on the price of an apartment, the area or the location?
+- Linear Regression Model to predict the price of a flat 
+- Multi linear regression to predict the price of a flat
+- What if we want to infer using text data (Dummy variables)
+## Features
+- Data exploration and visualization
+- Feature engineering
+- Regression modeling
+- Performance metrics and result interpretation
+
+## Usage
+1. Open the notebook in Jupyter.
+2. Execute cells sequentially.
+3. Set correct paths for data files.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## License
+For educational purposes.
